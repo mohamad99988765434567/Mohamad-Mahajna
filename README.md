@@ -15,7 +15,6 @@ I'm a **Computer Science student** at **Tel Aviv University**, passionate about 
 - **📝 Languages**: C, C++, Python, Java, C#, JavaScript/TypeScript  
 - **💻 Web & Front-End**: HTML, CSS, React  
 - **⚙️ Tools & Platforms**: Linux, Git, Cassandra, Bigtable, BigQuery, SQL/NoSQL, MySQL, MongoDB  
-- **🔭 Areas of Exploration**: Compiler internals, matrix factorization, data-driven NLP, and large-scale systems
 
 ---
 
